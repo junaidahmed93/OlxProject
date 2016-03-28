@@ -132,10 +132,12 @@ div.left_side_button,div.right_side_button{
 div.left_side_button:hover {
     background: #FFF;
     color: #a1cf3e;
+    box-shadow: 2px 2px 3px black;
 }
 div.right_side_button:hover {
     background: #FFF;
     color: #4adbf0;
+    box-shadow: 2px 2px 3px black;
 }
 
 
